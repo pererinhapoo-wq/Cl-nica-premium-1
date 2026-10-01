@@ -1,0 +1,6 @@
+{
+  "name": "VITRAE MEDICAL",
+  "description": "Cuidado preciso. Experiência humana. Clínica médica de excelência, tecnologia diagnóstica e acompanhamento integrado em saúde contemporânea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
